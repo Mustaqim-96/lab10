@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1076155953725",
+    "project_id": "lab10-ffc3f",
+    "storage_bucket": "lab10-ffc3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076155953725:android:88d74f10a8e5b86c73f054",
+        "android_client_info": {
+          "package_name": "com.mustaqim.lab10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0wP31zJLhpzFrMgwb9v4i69gB9jSnh4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
